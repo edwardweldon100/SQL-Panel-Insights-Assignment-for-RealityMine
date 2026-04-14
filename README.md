@@ -1,8 +1,9 @@
-**Dataset & Goals**
+**Dataset**
 
 22,000 Panelists of varying Demographics
 
 Incentive & Target Table with Fees and Target Representation by Demographics
+
 
 **Task 1: Incentive Fees Total for Month 1**
 
