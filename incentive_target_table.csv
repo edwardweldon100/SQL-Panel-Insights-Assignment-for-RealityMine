@@ -1,0 +1,17 @@
+OS,Demographic_Cohort,Monthly_Fee_£,Target_Representation
+Android,Ages 18-24,5,0.082
+Android,Ages 25-34,5,0.079
+Android,Ages 35-44,10,0.104
+Android,Ages 45-54,10,0.118
+Android,Ages 55+,15,0.144
+Android,Country 1,5,0.123
+Android,Country 2,15,0.186
+Android,Country 3,15,0.192
+iOS,Ages 18-24,5,0.077
+iOS,Ages 25-34,5,0.078
+iOS,Ages 35-44,10,0.092
+iOS,Ages 45-54,15,0.104
+iOS,Ages 55+,15,0.122
+iOS,Country 1,5,0.131
+iOS,Country 2,15,0.181
+iOS,Country 3,15,0.187
